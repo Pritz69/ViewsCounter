@@ -3,6 +3,11 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "Portfolio_Website",
+    "Terminal_Portfolio",
+    "MovieRecommenderSite",
+    "MemoryGame",
+    "Music_Player",
+    "Calculator"  
   ]
 }
