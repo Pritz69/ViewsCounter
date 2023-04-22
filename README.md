@@ -115,9 +115,41 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/577464192/small/year.png" height="20"> 0
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/533325287/year.md">
+				LeetCode-Solutions
+			</a>
+		</td>
+		<td>
+			2023/4/19 12:00 AM UTC
+		</td>
+		<td>
+			13
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/533325287/small/year.png" height="20"> 51
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/550124420/year.md">
+				GFG_POTD
+			</a>
+		</td>
+		<td>
+			2023/4/19 12:00 AM UTC
+		</td>
+		<td>
+			71
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/550124420/small/year.png" height="20"> 221
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/4/22 6:13 AM UTC</i></small>
+<small><i>Last updated on 2023/4/22 9:33 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
