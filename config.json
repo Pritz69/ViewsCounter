@@ -8,6 +8,8 @@
     "MovieRecommenderSite",
     "MemoryGame",
     "Music_Player",
-    "Calculator"  
+    "Calculator" ,
+    "LeetCode-Solutions" ,
+    "GFG_POTD"
   ]
 }
