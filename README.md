@@ -147,9 +147,89 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/550124420/small/year.png" height="20"> 342
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/625286651/year.md">
+				GFG_TESTSERIES_PBC
+			</a>
+		</td>
+		<td>
+			2023/4/25 9:25 PM UTC
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/625286651/small/year.png" height="20"> 46
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/632122424/year.md">
+				DAA-Solutions
+			</a>
+		</td>
+		<td>
+			2023/4/25 12:00 AM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/632122424/small/year.png" height="20"> 40
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/630928588/year.md">
+				ImageUploader_Django
+			</a>
+		</td>
+		<td>
+			2023/4/25 12:00 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/630928588/small/year.png" height="20"> 66
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/619231643/year.md">
+				Strivers_Graph
+			</a>
+		</td>
+		<td>
+			2023/4/25 9:25 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/619231643/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/538171767/year.md">
+				Wine_Quality_Prediction_ML
+			</a>
+		</td>
+		<td>
+			2023/4/25 12:00 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/538171767/small/year.png" height="20"> 6
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/4/28 6:12 PM UTC</i></small>
+<small><i>Last updated on 2023/4/28 9:26 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
