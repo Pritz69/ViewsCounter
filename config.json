@@ -10,6 +10,11 @@
     "Music_Player",
     "Calculator" ,
     "LeetCode-Solutions" ,
-    "GFG_POTD"
+    "GFG_POTD" ,
+    "GFG_TESTSERIES_PBC" ,
+    "DAA-Solutions" ,
+    "ImageUploader_Django" ,
+    "Strivers_Graph" ,
+    "Wine_Quality_Prediction_ML"
   ]
 }
