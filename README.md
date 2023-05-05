@@ -227,9 +227,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/538171767/small/year.png" height="20"> 7
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/636577473/year.md">
+				LeetCode-JS-30DaysChallenge
+			</a>
+		</td>
+		<td>
+			2023/5/2 7:06 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/636577473/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/5/5 6:14 AM UTC</i></small>
+<small><i>Last updated on 2023/5/5 7:07 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

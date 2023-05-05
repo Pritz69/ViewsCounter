@@ -1,7 +1,7 @@
 ## [🔙 ViewsCounter](https://github.com/Pritz69/ViewsCounter)
 
-### :octocat: [GFG_TESTSERIES_PBC](https://github.com/Pritz69/GFG_TESTSERIES_PBC)
-![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/graph/625286651/large/year.png)
+### :octocat: [LeetCode-JS-30DaysChallenge](https://github.com/Pritz69/LeetCode-JS-30DaysChallenge)
+![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/graph/636577473/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -34,10 +34,10 @@
 			<code>2023/4/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>72</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/5/5 7:05 AM UTC</i></small>
+<small><i>Last updated on 2023/5/5 7:06 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/svg/625286651/badge.svg)](https://github.com/Pritz69/ViewsCounter/blob/master/readme/625286651/week.md)
+[![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/svg/636577473/badge.svg)](https://github.com/Pritz69/ViewsCounter/blob/master/readme/636577473/week.md)
 ```readme
-[![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/svg/625286651/badge.svg)](https://github.com/Pritz69/ViewsCounter/blob/master/readme/625286651/week.md)
+[![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/svg/636577473/badge.svg)](https://github.com/Pritz69/ViewsCounter/blob/master/readme/636577473/week.md)
 ```
 ### Header
-# GFG_TESTSERIES_PBC [<img alt="Image of ViewsCounter" src="https://github.com/Pritz69/ViewsCounter/blob/master/graph/625286651/small/year.png" height="20">](https://github.com/Pritz69/ViewsCounter/blob/master/readme/625286651/year.md)
+# LeetCode-JS-30DaysChallenge [<img alt="Image of ViewsCounter" src="https://github.com/Pritz69/ViewsCounter/blob/master/graph/636577473/small/year.png" height="20">](https://github.com/Pritz69/ViewsCounter/blob/master/readme/636577473/year.md)
 ```readme
-# GFG_TESTSERIES_PBC [<img alt="Image of ViewsCounter" src="https://github.com/Pritz69/ViewsCounter/blob/master/graph/625286651/small/year.png" height="20">](https://github.com/Pritz69/ViewsCounter/blob/master/readme/625286651/year.md)
+# LeetCode-JS-30DaysChallenge [<img alt="Image of ViewsCounter" src="https://github.com/Pritz69/ViewsCounter/blob/master/graph/636577473/small/year.png" height="20">](https://github.com/Pritz69/ViewsCounter/blob/master/readme/636577473/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
