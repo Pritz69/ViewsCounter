@@ -243,9 +243,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/636577473/small/year.png" height="20"> 521
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/656874207/year.md">
+				OOPS_JAVA_CN
+			</a>
+		</td>
+		<td>
+			2023/6/18 8:59 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/656874207/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/6/21 6:13 PM UTC</i></small>
+<small><i>Last updated on 2023/6/21 8:59 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

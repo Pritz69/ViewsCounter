@@ -1,7 +1,7 @@
 ## [🔙 ViewsCounter](https://github.com/Pritz69/ViewsCounter)
 
-### :octocat: [GFG_TESTSERIES_PBC](https://github.com/Pritz69/GFG_TESTSERIES_PBC)
-![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/graph/625286651/large/year.png)
+### :octocat: [OOPS_JAVA_CN](https://github.com/Pritz69/OOPS_JAVA_CN)
+![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/graph/656874207/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2023/5/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2023/4/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>60</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/6/21 8:58 PM UTC</i></small>
+<small><i>Last updated on 2023/6/21 8:59 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/svg/625286651/badge.svg)](https://github.com/Pritz69/ViewsCounter/blob/master/readme/625286651/week.md)
+[![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/svg/656874207/badge.svg)](https://github.com/Pritz69/ViewsCounter/blob/master/readme/656874207/week.md)
 ```readme
-[![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/svg/625286651/badge.svg)](https://github.com/Pritz69/ViewsCounter/blob/master/readme/625286651/week.md)
+[![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/svg/656874207/badge.svg)](https://github.com/Pritz69/ViewsCounter/blob/master/readme/656874207/week.md)
 ```
 ### Header
-# GFG_TESTSERIES_PBC [<img alt="Image of ViewsCounter" src="https://github.com/Pritz69/ViewsCounter/blob/master/graph/625286651/small/year.png" height="20">](https://github.com/Pritz69/ViewsCounter/blob/master/readme/625286651/year.md)
+# OOPS_JAVA_CN [<img alt="Image of ViewsCounter" src="https://github.com/Pritz69/ViewsCounter/blob/master/graph/656874207/small/year.png" height="20">](https://github.com/Pritz69/ViewsCounter/blob/master/readme/656874207/year.md)
 ```readme
-# GFG_TESTSERIES_PBC [<img alt="Image of ViewsCounter" src="https://github.com/Pritz69/ViewsCounter/blob/master/graph/625286651/small/year.png" height="20">](https://github.com/Pritz69/ViewsCounter/blob/master/readme/625286651/year.md)
+# OOPS_JAVA_CN [<img alt="Image of ViewsCounter" src="https://github.com/Pritz69/ViewsCounter/blob/master/graph/656874207/small/year.png" height="20">](https://github.com/Pritz69/ViewsCounter/blob/master/readme/656874207/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
