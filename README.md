@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/11 12:57 AM UTC
+			2023/7/12 1:02 AM UTC
 		</td>
 		<td>
 			23
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/11 12:57 AM UTC
+			2023/7/12 1:02 AM UTC
 		</td>
 		<td>
 			11
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/11 12:57 AM UTC
+			2023/7/12 1:02 AM UTC
 		</td>
 		<td>
 			12
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/11 12:57 AM UTC
+			2023/7/12 1:02 AM UTC
 		</td>
 		<td>
 			5
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/11 12:57 AM UTC
+			2023/7/12 1:02 AM UTC
 		</td>
 		<td>
 			3
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/11 12:58 AM UTC
+			2023/7/12 1:03 AM UTC
 		</td>
 		<td>
 			3
@@ -122,13 +122,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/11 12:00 AM UTC
+			2023/7/12 12:00 AM UTC
 		</td>
 		<td>
-			122
+			123
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/533325287/small/year.png" height="20"> 806
+			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/533325287/small/year.png" height="20"> 814
 		</td>
 	</tr>
 	<tr>
@@ -138,13 +138,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/11 12:00 AM UTC
+			2023/7/12 12:00 AM UTC
 		</td>
 		<td>
-			452
+			460
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/550124420/small/year.png" height="20"> 1546
+			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/550124420/small/year.png" height="20"> 1566
 		</td>
 	</tr>
 	<tr>
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/11 12:58 AM UTC
+			2023/7/12 1:03 AM UTC
 		</td>
 		<td>
 			12
@@ -170,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/11 12:58 AM UTC
+			2023/7/12 1:03 AM UTC
 		</td>
 		<td>
 			4
@@ -186,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/11 12:59 AM UTC
+			2023/7/12 1:03 AM UTC
 		</td>
 		<td>
 			5
@@ -197,28 +197,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/619231643/year.md">
-				Strivers_Graph
-			</a>
-		</td>
-		<td>
-			2023/7/11 12:59 AM UTC
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/619231643/small/year.png" height="20"> 48
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/538171767/year.md">
 				Wine_Quality_Prediction_ML
 			</a>
 		</td>
 		<td>
-			2023/7/11 12:59 AM UTC
+			2023/7/12 1:04 AM UTC
 		</td>
 		<td>
 			14
@@ -234,7 +218,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/11 12:59 AM UTC
+			2023/7/12 1:04 AM UTC
 		</td>
 		<td>
 			85
@@ -250,18 +234,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/7/11 12:00 AM UTC
+			2023/7/12 12:00 AM UTC
 		</td>
 		<td>
-			16
+			18
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/656874207/small/year.png" height="20"> 173
+			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/656874207/small/year.png" height="20"> 179
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/7/13 6:14 PM UTC</i></small>
+<small><i>Last updated on 2023/7/14 1:06 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
