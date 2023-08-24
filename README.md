@@ -165,22 +165,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/632122424/year.md">
-				DAA-Solutions
-			</a>
-		</td>
-		<td>
-			2023/8/22 12:42 AM UTC
-		</td>
-		<td>
-			4
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/632122424/small/year.png" height="20"> 41
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/538171767/year.md">
 				Wine_Quality_Prediction_ML
 			</a>
@@ -229,7 +213,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/8/24 12:19 PM UTC</i></small>
+<small><i>Last updated on 2023/8/24 6:13 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
