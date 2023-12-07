@@ -195,9 +195,41 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/636577473/small/year.png" height="20"> 1105
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/725213131/year.md">
+				CSES-PROBLEMSET-SOLUTIONS
+			</a>
+		</td>
+		<td>
+			2023/12/4 5:55 AM UTC
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/725213131/small/year.png" height="20"> 152
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/728521828/year.md">
+				Newton-School-POTD
+			</a>
+		</td>
+		<td>
+			2023/12/4 5:55 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/728521828/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/12/7 12:47 AM UTC</i></small>
+<small><i>Last updated on 2023/12/7 5:55 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

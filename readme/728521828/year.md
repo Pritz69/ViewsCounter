@@ -1,7 +1,7 @@
 ## [🔙 ViewsCounter](https://github.com/Pritz69/ViewsCounter)
 
-### :octocat: [Calculator](https://github.com/Pritz69/Calculator)
-![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/graph/577464192/large/year.png)
+### :octocat: [Newton-School-POTD](https://github.com/Pritz69/Newton-School-POTD)
+![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/graph/728521828/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -34,10 +34,10 @@
 			<code>2023/11/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2023/10/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2023/9/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2023/7/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2023/5/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -111,10 +111,10 @@
 			<code>2023/4/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/12/7 5:54 AM UTC</i></small>
+<small><i>Last updated on 2023/12/7 5:55 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/svg/577464192/badge.svg)](https://github.com/Pritz69/ViewsCounter/blob/master/readme/577464192/week.md)
+[![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/svg/728521828/badge.svg)](https://github.com/Pritz69/ViewsCounter/blob/master/readme/728521828/week.md)
 ```readme
-[![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/svg/577464192/badge.svg)](https://github.com/Pritz69/ViewsCounter/blob/master/readme/577464192/week.md)
+[![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/svg/728521828/badge.svg)](https://github.com/Pritz69/ViewsCounter/blob/master/readme/728521828/week.md)
 ```
 ### Header
-# Calculator [<img alt="Image of ViewsCounter" src="https://github.com/Pritz69/ViewsCounter/blob/master/graph/577464192/small/year.png" height="20">](https://github.com/Pritz69/ViewsCounter/blob/master/readme/577464192/year.md)
+# Newton-School-POTD [<img alt="Image of ViewsCounter" src="https://github.com/Pritz69/ViewsCounter/blob/master/graph/728521828/small/year.png" height="20">](https://github.com/Pritz69/ViewsCounter/blob/master/readme/728521828/year.md)
 ```readme
-# Calculator [<img alt="Image of ViewsCounter" src="https://github.com/Pritz69/ViewsCounter/blob/master/graph/577464192/small/year.png" height="20">](https://github.com/Pritz69/ViewsCounter/blob/master/readme/577464192/year.md)
+# Newton-School-POTD [<img alt="Image of ViewsCounter" src="https://github.com/Pritz69/ViewsCounter/blob/master/graph/728521828/small/year.png" height="20">](https://github.com/Pritz69/ViewsCounter/blob/master/readme/728521828/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
