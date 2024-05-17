@@ -149,22 +149,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/625286651/year.md">
-				GFG_TESTSERIES_PBC
-			</a>
-		</td>
-		<td>
-			2024/5/15 12:47 AM UTC
-		</td>
-		<td>
-			13
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/625286651/small/year.png" height="20"> 110
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/538171767/year.md">
 				Wine_Quality_Prediction_ML
 			</a>
@@ -229,7 +213,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/5/17 12:19 PM UTC</i></small>
+<small><i>Last updated on 2024/5/17 6:19 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
