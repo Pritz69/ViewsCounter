@@ -1,7 +1,7 @@
 ## [🔙 ViewsCounter](https://github.com/Pritz69/ViewsCounter)
 
-### :octocat: [Terminal_Portfolio](https://github.com/Pritz69/Terminal_Portfolio)
-![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/graph/631052544/large/year.png)
+### :octocat: [5011251](https://github.com/Pritz69/5011251)
+![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/graph/834829607/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/7/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>3</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>47</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2024/5/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2024/2/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2024/1/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2023/12/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -155,27 +155,27 @@
 			<code>2023/7/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2024/7/28 6:14 PM UTC</i></small>
+<small><i>Last updated on 2024/7/28 6:16 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/svg/631052544/badge.svg)](https://github.com/Pritz69/ViewsCounter/blob/master/readme/631052544/week.md)
+[![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/svg/834829607/badge.svg)](https://github.com/Pritz69/ViewsCounter/blob/master/readme/834829607/week.md)
 ```readme
-[![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/svg/631052544/badge.svg)](https://github.com/Pritz69/ViewsCounter/blob/master/readme/631052544/week.md)
+[![Image of ViewsCounter](https://github.com/Pritz69/ViewsCounter/blob/master/svg/834829607/badge.svg)](https://github.com/Pritz69/ViewsCounter/blob/master/readme/834829607/week.md)
 ```
 ### Header
-# Terminal_Portfolio [<img alt="Image of ViewsCounter" src="https://github.com/Pritz69/ViewsCounter/blob/master/graph/631052544/small/year.png" height="20">](https://github.com/Pritz69/ViewsCounter/blob/master/readme/631052544/year.md)
+# 5011251 [<img alt="Image of ViewsCounter" src="https://github.com/Pritz69/ViewsCounter/blob/master/graph/834829607/small/year.png" height="20">](https://github.com/Pritz69/ViewsCounter/blob/master/readme/834829607/year.md)
 ```readme
-# Terminal_Portfolio [<img alt="Image of ViewsCounter" src="https://github.com/Pritz69/ViewsCounter/blob/master/graph/631052544/small/year.png" height="20">](https://github.com/Pritz69/ViewsCounter/blob/master/readme/631052544/year.md)
+# 5011251 [<img alt="Image of ViewsCounter" src="https://github.com/Pritz69/ViewsCounter/blob/master/graph/834829607/small/year.png" height="20">](https://github.com/Pritz69/ViewsCounter/blob/master/readme/834829607/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
