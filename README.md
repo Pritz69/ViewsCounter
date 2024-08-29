@@ -165,22 +165,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/538171767/year.md">
-				Wine_Quality_Prediction_ML
-			</a>
-		</td>
-		<td>
-			2024/8/27 12:55 AM UTC
-		</td>
-		<td>
-			24
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/538171767/small/year.png" height="20"> 34
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/636577473/year.md">
 				LeetCode-JS-30DaysChallenge
 			</a>
@@ -245,7 +229,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/8/29 12:56 AM UTC</i></small>
+<small><i>Last updated on 2024/8/29 6:18 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
