@@ -37,6 +37,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/631052544/year.md">
+				Terminal_Portfolio
+			</a>
+		</td>
+		<td>
+			2025/4/1 1:11 AM UTC
+		</td>
+		<td>
+			24
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Pritz69/ViewsCounter/raw/master/graph/631052544/small/year.png" height="20"> 94
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Pritz69/ViewsCounter/tree/master/readme/574194437/year.md">
 				MovieRecommenderSite
 			</a>
@@ -229,7 +245,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/3 1:05 AM UTC</i></small>
+<small><i>Last updated on 2025/4/3 6:21 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
