@@ -14,6 +14,10 @@ jobs:
       - uses: actions/setup-node@v2.1.5
         with:
           node-version: 14.17.0
+      - name: Set Environment File for State Management
+        run: echo "COUNTER_STATE=0" >> $GITHUB_ENV
       - uses: gayanvoice/github-profile-views-counter-action@3.0.0
         env:
           INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
+          COUNTER_STATE: ${{ env.COUNTER_STATE }}
+
